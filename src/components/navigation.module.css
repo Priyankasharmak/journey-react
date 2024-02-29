@@ -1,0 +1,25 @@
+.nave{
+    background-color: gainsboro;
+    display: flex;
+    justify-content:space-between ;
+    padding: 15px 15px ;
+    color: aliceblue;
+    align-items: center;
+}
+.equl{
+    display: flex;
+    width: 30vw;
+    justify-content: space-between;
+    align-items: center;
+}
+.box{
+    font-weight: 600;
+}
+.box4,.box5{
+    background-color: white;
+    font-weight: 300;
+    border-radius: 5px;
+    padding: 10px 13px ;
+    border: none;
+
+}
