@@ -139,3 +139,65 @@
     border-radius: 5px;
     padding: 8px 10px;
 }
+.bigbox{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    height: 30vh;
+    align-items: center;
+}
+.price{
+    font-size: 40px;
+    width: 25vw;
+    font-weight: 600;
+    color: white;
+    
+}
+.box1{
+    color: white;
+    font-size: 13px;
+    word-spacing: 5px;
+    line-height: 20px;
+    width: 30vw;
+ 
+}
+
+.box2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.im , .im2{
+object-fit: cover;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+}
+.im2{
+
+position: relative;
+left: -15px;
+border: 2px solid black;
+
+}
+.tet{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+.imgw{
+    display: flex;
+    align-items: center;
+
+
+    
+
+}
+.nme{
+    margin-bottom: 20px;
+}
+.icon{
+    font-size: 30px;
+    font-weight: 300;
+}
