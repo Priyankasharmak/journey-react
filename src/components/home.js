@@ -1,6 +1,6 @@
-import Navi from './components/navigation';
-import Foot from './components/footer';
-import Tex from './components/text';
+import Navi from './navigation';
+import Foot from './footer';
+import Tex from './text';
 const Home = () => {
     return (<>
     <Navi></Navi>
